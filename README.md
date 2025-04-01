@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello,     _____ __  ___   __
+  / ___// / / / | / /
+  \__ \/ / / /  |/ / 
+ ___/ / /_/ / /|  /  
+/____/\____/_/ |_/  👋
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=zedonggg)](https://github.com/anuraghazra/github-readme-stats)
 
